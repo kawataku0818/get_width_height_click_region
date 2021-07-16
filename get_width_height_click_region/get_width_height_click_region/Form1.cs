@@ -84,8 +84,8 @@ namespace get_width_height_click_region
             {
                 return;
             }
-            width = column2 - column1 - 1;
-            height = row2 - row1 - 1;
+            width = column2 - column1 + 1;
+            height = row2 - row1 + 1;
         }
     }
 }
