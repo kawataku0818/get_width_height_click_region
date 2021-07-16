@@ -1,0 +1,2 @@
+# get_width_height_click_region
+get_width_height_click_region halcon13 c#
